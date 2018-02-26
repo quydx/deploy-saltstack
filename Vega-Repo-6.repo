@@ -1,0 +1,4 @@
+[vega-repo]
+name=Vega Repo
+baseurl=http://171.244.16.183/repos/centos/x86_64/6/
+gpgcheck=0
